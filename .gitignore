@@ -1,1 +1,10 @@
-scratchpad/
+# Not related to code submission
+other-assignments/
+#scratchpad/
+
+# Rust build files
+debug/
+target/
+
+**/*.rs.bk
+*.pdb
