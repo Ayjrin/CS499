@@ -1,6 +1,9 @@
 # Not related to code submission
 other-assignments/
-#scratchpad/
+scratchpad/
+node_modules/
+.angular/
+dist/
 
 # Rust build files
 debug/
